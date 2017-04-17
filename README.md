@@ -1,2 +1,2 @@
 # FTP
-Project for all FTP(File Transfer Protocol related code)
+Project for all FTP(File Transfer Protocol) related code
